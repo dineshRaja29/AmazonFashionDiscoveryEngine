@@ -1,2 +1,1 @@
-# AmazonFashionDiscoveryEngine-ContentBasedRecommendation-
-Amazon Fashion Discovery Engine (Content Based Recommendation) 
+#Amazon Fashion Discovery Engine (Content Based Recommendation) 
